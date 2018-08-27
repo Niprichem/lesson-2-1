@@ -1,0 +1,12 @@
+[{
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "address": "г.Москва, ул. Алиева,2",
+  "phoneNumber": "812 123-1234"
+},
+{
+  "firstName": "Нави",
+  "lastName": "Вонави",
+  "address": "г.Авксом, ул. Авеила,8",
+  "phoneNumber": "456 567-3457"
+}]
